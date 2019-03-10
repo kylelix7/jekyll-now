@@ -6,7 +6,7 @@
 name: Once upon a time
 
 # Short bio or description (displayed in the header)
-description: blogs
+description: Kyle's blogs
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,13 +23,13 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/kyle-li/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  medium: https://medium.com/@kyle.jinhai.li
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
