@@ -5,6 +5,7 @@ title: Back testing with Backtrader
 
 In one of my [older post](https://kylelix7.github.io/Trading-Strategy-Technical-Analysis-with-Python-TA-Lib/), I demonstrates how to compute technical indicators which can be combined logically to build a trading strategy. As emphasized in the post, one should validate how well the strategy does with backtesting before applying it in real market.
 
+![alt](https://cdn-images-1.medium.com/max/1600/0*8l5ftTfMjM03HzEH)
 
 > Backtesting is the process of applying a trading strategy or analytical method to historical data to see how accurately the strategy or method would have predicted actual results. - from [investing answers](https://investinganswers.com/financial-dictionary/stock-market/backtesting-865)
 
