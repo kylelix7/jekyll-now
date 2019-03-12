@@ -3,12 +3,14 @@ layout: post
 title: Efficient Frontier Explained with SciPy
 ---
 
-![alt](https://cdn-images-1.medium.com/max/2400/0*eCvyNvno7mdWuhRp.)
+![header](/images/header.jpeg)
+
 
 # Beyond the bound
 Given 4 assets’ risk and return as following, what could be the risk-return for any portfolio built with the assets. One may think that all possible values have to fall inside the convex hull. But it is possible to go beyond the bond, if you consider the correlation coefficient among the assets. That’s being said combining inversely correlated assets can construct a portfolio with lower risk. More details can be found in my [previous post](https://medium.com/@kyle.jinhai.li/reducing-risk-by-building-portfolio-8772d1ce0f21).
 
-![https://cdn-images-1.medium.com/max/1600/1*xsQI9Qs-fIciafPqddZOFg.gif](https://cdn-images-1.medium.com/max/1600/1*xsQI9Qs-fIciafPqddZOFg.gif)
+![img1](/images/frontier1.gif)
+
 
 To demonstrate portfolio risk-return can go beyond the area, I get 3000 samples of randomly-weighted portfolio and plot their risk-return.
 
@@ -54,7 +56,9 @@ for i, symbol in enumerate(symbols):
     ax.annotate(symbol, (risk_v[i], return_v[i]))
 plt.show()
 ```
-![https://cdn-images-1.medium.com/max/1600/1*cSs-l80kh-fdPnM1E1DA8g.png](https://cdn-images-1.medium.com/max/1600/1*cSs-l80kh-fdPnM1E1DA8g.png)
+
+![img2](/images/frontier2.png)
+
 
 Return and risk for BA (Boeing), C (Citigroup), AAL (American Airlines Group), NFLX (Netflix)
 
@@ -101,7 +105,7 @@ plt.show()
 
 Let’s look at the risk and return. we do see that there are blue dots outside of the area. So diversification does help reduce the risk. But how do we find the best or efficient weight?
 
-![https://cdn-images-1.medium.com/max/1600/1*9agcycA7QNS73SaBf8b69w.png](https://cdn-images-1.medium.com/max/1600/1*9agcycA7QNS73SaBf8b69w.png)
+![img3](/images/frontier3.png)
 
 Return and risk of a portfolio of random weighted BA (Boeing), C (Citigroup), AAL (American Airlines Group), NFLX (Netflix) (3000 samples)
 
@@ -150,7 +154,7 @@ plt.savefig('return_risk_efficient_frontier.png', bbox_inches='tight')
 
 The green line indicate the efficient frontier. Now we know the best allocation with a given target return. Next question, what is the best allocation overall? Portfolio performance can be evaluated with return/risk ratio (known as [Sharpe Ratio](https://www.investopedia.com/terms/s/sharperatio.asp)). High Sharpe Ratio indicates good balance of return and risk. This allocation can be found by drawing a Capital Allocation line that tangent to the efficient frontier. The tangent point is the allocation yields highest Sharpe ratio. To learn more, you can take a look at this article on how to find the highest sharpe ratio from the efficient frontier with Capital Allocation Line (CAL).
 
-![https://cdn-images-1.medium.com/max/1600/1*_qDEzRR66Wz2pKO9CQg7rQ.png](https://cdn-images-1.medium.com/max/1600/1*_qDEzRR66Wz2pKO9CQg7rQ.png)
+![img4](/images/frontier4.png)
 
 Efficient frontier — Return and risk of optimal asset-weights at different targeted returns
 That’s it. Now we know the theory of diversification. Happy investment and coding!
