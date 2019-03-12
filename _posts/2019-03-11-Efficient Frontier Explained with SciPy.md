@@ -155,3 +155,4 @@ The green line indicate the efficient frontier. Now we know the best allocation 
 Efficient frontier — Return and risk of optimal asset-weights at different targeted returns
 That’s it. Now we know the theory of diversification. Happy investment and coding!
 
+
