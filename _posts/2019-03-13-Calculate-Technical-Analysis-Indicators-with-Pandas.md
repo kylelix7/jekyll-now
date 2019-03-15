@@ -27,6 +27,7 @@ Data:
 We will use a csv file (AMZN.csv) collected from the previous post in this example
 
 Code:
+
 ```python3
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -50,7 +51,6 @@ upper_band = sma + 2 * rstd
 upper_band = upper_band.rename(columns={symbol: 'upper'})
 lower_band = sma - 2 * rstd
 lower_band = lower_band.rename(columns={symbol: 'lower'})
-
 
 df = df.join(upper_band).join(lower_band)
 ax = df.plot(title='{} Price and BB'.format(symbol))
