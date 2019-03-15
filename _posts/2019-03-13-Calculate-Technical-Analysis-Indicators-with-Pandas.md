@@ -12,7 +12,7 @@ In a [previous story](https://medium.com/@kyle.jinhai.li/collect-trading-data-wi
 
 Bollinger Bands is used to define the prevailing high and low prices in a market to characterize the trading band of a financial instrument or commodity. Bollinger Bands are a [volatility](https://en.wikipedia.org/wiki/Volatility_%28finance%29) indicator. Bands are consists of Moving Average (MA) line, a upper band and lower band. The upper and lower bands are simply MA adding and subtracting standard deviation. Standard deviation is a measurement of volatility. That’s why it’s a volatility indictor.
 
-```python
+```
 Upper Band = (MA + Kσ)
 Lower Band = (MA − Kσ)
 ```
@@ -28,7 +28,7 @@ We will use a csv file (AMZN.csv) collected from the previous post in this examp
 
 Code:
 
-```python3
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
