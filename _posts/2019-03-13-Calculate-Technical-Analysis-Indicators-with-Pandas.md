@@ -28,7 +28,7 @@ We will use a csv file (AMZN.csv) collected from the previous post in this examp
 
 Code:
 
-```python3
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
