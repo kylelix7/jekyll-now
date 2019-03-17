@@ -10,6 +10,33 @@
   overflow: scroll;
 }
 
+.highlight {
+  > pre {
+      border: 1px solid #ddd;
+      padding: 0;
+
+      pre {
+          margin: 0;
+          font-size: 12px;
+          line-height: 17px;
+          font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+          border: none;
+          word-wrap: normal;
+      }
+  }
+  td.gutter {
+      min-width: 40px;
+      pre {
+          color: #aaa;
+          border-right: 1px solid #eee;
+          border-radius: 0;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
+      }
+  }
+}
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
