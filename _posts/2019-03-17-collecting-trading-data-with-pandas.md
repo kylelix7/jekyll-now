@@ -11,7 +11,7 @@ For quantitative analysts who believe in trading, they need access to stock pric
 Prerequisite: Python 3
 
 Step1: Environment setup (virtual env)
-```
+```bash
 python3 -m venv tutorial-env
 source ~/tutorial-env/bin/activate
 pip install panda
@@ -22,7 +22,7 @@ pip install scipy
 (Don’t forget to activate the environment `source ~/tutorial-env/bin/activate` or choose the virtual env in your IDE)
 
 Step2: Code (fetching data and dump to a csv file)
-```
+```python3
 import matplotlib.pyplot as plt
 import pandas_datareader.data as web
 # collect data for Amazon from 2017-04-22 to 2018-04-22
@@ -51,7 +51,7 @@ A corresponding csv file is saved in an ouput directory (~/workspace/AMZN.csv) i
 
 Step3: Visualize what was collected with matplotlib
 
-```
+```python3
 # select only close column
 close = df[['close']]
 # rename the column with symbole name
