@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technical Analysis with Python TA-Lib
+title: How to use TA-Lib for Technical Analysis in Python
 ---
 >In finance, a trading strategy is a fixed plan that is designed to achieve a profitable return by going long or short in markets. The main reasons that a properly researched trading strategy helps are its verifiability, quantifiability, consistency, and objectivity.
 For every trading strategy one needs to define assets to trade, entry/exit points and money management rules. Bad money management can make a potentially profitable strategy unprofitable. — From Wikipedia
