@@ -18,3 +18,9 @@ Wait only n step for estimate
 - Both TD are Monte Carlo are sampling update, unlike DP. It doesn't know the distribution of the transition
 - TD with eligibility trace to obtain general method to learn more efficiently
 - TD(1) is Monte Carlo, TD(0) is one-step TD. In between are intermediate methods
+
+## Learning rate properties to TD learning
+1. sum(alpha_T) = infinity (sum of alpha_T over time T)
+2. sum(alpha_T^2) < infinity (sum of alpha_T over time T)
+
+(Details)[https://classroom.udacity.com/courses/ud600/lessons/4178018883/concepts/41512300930923]
