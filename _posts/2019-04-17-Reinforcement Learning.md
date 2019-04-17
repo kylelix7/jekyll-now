@@ -5,6 +5,8 @@ Temporal difference (TD) learning refers to a class of model-free reinforcement 
 ## Monte Carlo
 Monte Carlo methods only adjust their estimates once the final outcome is known
 
+## TD Lambda
+The lambda parameter refers to the trace decay parameter, with 0<=lambda<=1. Higher settings lead to longer lasting traces; that is, a larger proportion of credit from a reward can be given to more distant states and actions when lambda is higher, with lambda =1 producing parallel learning to Monte Carlo RL algorithms.
 
 - TD is sampling from environment like Monte Carlo and is bootstrapping like DP
 Wait only n step for estimate
