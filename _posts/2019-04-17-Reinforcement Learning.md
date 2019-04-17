@@ -23,4 +23,4 @@ Wait only n step for estimate
 1. sum(alpha_T) = infinity (sum of alpha_T over time T)
 2. sum(alpha_T^2) < infinity (sum of alpha_T over time T)
 
-(Details)[https://classroom.udacity.com/courses/ud600/lessons/4178018883/concepts/41512300930923]
+[Details](https://classroom.udacity.com/courses/ud600/lessons/4178018883/concepts/41512300930923)
