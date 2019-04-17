@@ -12,7 +12,7 @@ The lambda parameter refers to the trace decay parameter, with 0<=lambda<=1. Hig
 Wait only n step for estimate
 - TD and DP are bootstrapping because it uses next step's state for estimate. The next step's state represent the future rewards (bootstrapping). While MC is not bootstrapping. it's getting estimate from an episode's real rewards.
 - TD has advantage over DP because it does not require a model of environment, the transition function
-- TD has advantage over Monte Carlo because they are implemented in an online, fully incremental fashion. MC must wait until the end of an episode. Can be a significant advantage if episodes are long.
+- TD has advantage over Monte Carlo because they are implemented in an online, fully incremental fashion. MC must wait until the end of an episode. Can be a significant advantage if episodes are long. (**TD converges faster**)
 
 
 - Both TD are Monte Carlo are sampling update, unlike DP. It doesn't know the distribution of the transition
