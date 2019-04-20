@@ -1,0 +1,16 @@
+# Paper Summary of Baird 1995
+
+Q Learning with Look up table always converge
+
+Q Learning with general approximation function is not gauranteed to converge (Baird 1995)
+
+## Residual Gradient Algorithm
+- change weights in the function approximation by performing gradient descent on the bellman residual, E
+- E becomes zero if and only if the value function is optimal
+- performing gradient descent on E can gaurantee to converge to a local minimum
+- if the approximation function is genreal enough to represent any value function and there's differentiable mapping from value function to weigth vectors, it is gauranteed to converge to optimal
+
+## Residual Algorithm
+- Direct algorithms can be fast but unstable, and residual gradient algorithms can be stable but slow.
+- Direct algorithm ignores the generalization
+- 
