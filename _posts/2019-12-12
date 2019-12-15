@@ -1,0 +1,47 @@
+---
+layout: post
+title: How I leetcode for 6 months and land a job at Amazon
+---
+
+![alt](https://raw.githubusercontent.com/kylelix7/kylelix7.github.io/master/images/leetcode1.png)
+# Leetcode as routine
+I started leetcode as a daily routine early Nov 2018 while I was taking part time online master couse Machine Learning at Geogia Tech and having full time job. It was quite hard to find enough time to tackle a single question from scratch. So, my strategy was to read questions and most upvoted answers in the discussion to get the sense of questions tag by tag. I found that it is extremely helpful for me to read solutions before attempting to solve the problems all by myself. It saved me time and allow me to read many questions in the same tag. So I could recognized variants of specific type of questions easily in the future. It also avoid the unnecessary frustration in early phase. Many people may feel frustrated as they cannot even solve easy problems at the very beginning. Actually this is very common. Reading solution early on can actually help avoid that. I know some people may disagree with this point. YMMV. (Besides leetcode, I have compiled this list of resources that helped me)
+In my opinion, this is more effective for most of the people who are not guru in algorithms. But don’t get me wrong, I still need to wake up as early as 6 am to leetcode for those days.
+Note: if you are very new to the interview process of the big tech companies, [cracking the coding interview](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=blog023b-20&linkId=68c4f6daa9ed65188f4a789b910c11dc) is your friend. It demonstrates the hiring process in great details and cover some strategy for preparation. I personally started from this book a few years ago. This helped me set the expectation of the interview so that I did not get any big surprise during the process.
+
+# The break and slow down
+Around new year 2019, I started my semester when I took two hard courses Reinforcement Learning and Advanced Operating System. These two courses consumed 30+ hours weekly. By then, I have briefly “solved” most tags and get the ability to identify the problem types by looking at the question. I then started try to solve problem without reading the solutions. My submissions were a lot less between Jan and April. This slowdown is very critical for me to transition the memorization to practical problem solving skills in interview. By writing the code, it did reinforcement my understanding of the algorithms I learned.
+
+# Leetcode contest
+![alt](https://raw.githubusercontent.com/kylelix7/kylelix7.github.io/master/images/leetcode2.png)
+During January to April, I attempted weekly contest as much as possible. I was never able to solve all four questions during the contest. Most of the time, I get 2 questions solved, sometimes 3. The advantage is that the contest provides the interview environment as it has time constraints.
+
+#A buddy
+Luckily, I have a buddy who was preparing for interviews and we leetcoded together. We often discussed lc and shared resources like interview prep materials. An example is that when I had difficulty understanding DP questions even like [coin change](https://leetcode.com/problems/coin-change/), my friend can share me summary of DP questions that he found online. The summary talks about difference between bottom up vs top down solutions. Also, with a buddy, you won’t feel alone in the journey so you won’t give up easily.
+The recruiter round
+It is the time for me to test my hard work. It came to the end of my intense semester. In the mean time, I slowly heard from recruiters calls from some companies. I got interview opportunitis with Amazon, Microsoft and Uber. I realized it is perfect timing to validate my practice and accepted all hr phone screens from Amazon, Microsoft and Uber. It was quite easy to pass the hr screen for all 3 companies.
+
+#Back to back interview
+It’s pretty fast that phone interviews were scheduled. The phone rounds were purely leetcode type of questions. I completed all coding interviews during the calls or online assessment. In this part, leetcode did help a lot. I was able to identify what algorithm or what data structure to use after I read the questions. Sometimes, I struggled in implementation. But I felt confident enough while I was struggling.
+Uber sent me to onsite invite first. Then Amazon and Microsoft sped up the onsite process. I got 3 onsites within 2 weeks. By the time I got the onsites, I purchased leetcode premium so that I could find out the question pools in these companies. It is $159 per year or $35 per month. I resumed my leetcode journey. But this time, my strategy only focuses on leetcoding top questions from these 3 companies. Leetcode has a feature to show company tagged questions in different recent periods, 6 months, 1 year etc. Recent 6 month questions should be most relevant. By the time I was hammering it, there were about 350 Uber questions, I planned to finish at least half of it. That means I need to pratice about 10 questions daily because of the limited time I had. This time, instead of jumping into the solution right after I got stuck, I attempted to solve it with naive solution, then try to optimize. (this is what you should do in the interview as well if you can’t think of an optimal solution right away). I always analyzed time and space complexity of my solution which is very critical during interview.
+It was a bit brutal for me to fly to west coast twice from east coast. But YOLO. To my supprise, out of 5 rounds of interviews at Amazon, I got only one leetcode type of coding question. Other two rounds of coding are quite open ended. I believe they were testing candidates’ ability to ask question about requirements at the beginning as well as oo design. And of course, leadership principle was all over the 5 interviews.
+In contrast, Uber and Microsoft’s coding questions are just like leetcode questions. Questions were clearly told, example input and output were provided. Time complexity and space complexity are expected to be analyzed.
+Note: If you are new to data structure and algorithms, I found [Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032157351X&linkCode=as2&tag=blog023b-20&linkId=f98bcb0c4220afdd3f99fcfd3c47aba8), [cracking the coding interview](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=blog023b-20&linkId=68c4f6daa9ed65188f4a789b910c11dc), and [standford online course](https://www.coursera.org/learn/algorithms-graphs-data-structures) are great to start. For candidate with very little pattern design knoledge, [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a) is a good start to understand many different patterns. I still use it as reference during study or work these days.
+
+#Land an offer
+At the end, I landed a job from Amazon. To sum up, the leetcode premium is still worth the money. Not that you are guaranteed to see the exact same questions in the interview, but you can have much better sense to get a correct direction in solving the problems. It also boosted my confidence when I was stuck in a question.
+My posts:
+Full Stack Development Tutorial: Integrate AWS Lambda Serverless Service into Angular SPA
+Full Stack Development Tutorial: Serving Trading Data with Serverless REST API running on AWS Lambda
+Full Stack Development Tutorial: Visualize Trading Data on Angular SPA
+A deep look at what technologies are hot for IT jobs in Banks
+How is Millennial Investment Choice Compared to Motley Fool Stock Advisor
+How I leetcode for 6 months and land a job at Amazon
+Trading Strategy: Back testing with Backtrader
+Reinforcement Learning: Introduction to Q Learning
+Trading Strategy: Technical Analysis with Python TA-Lib
+Portfolio Optimization for Minimum Risk with Scipy — Efficient Frontier Explained
+Reducing Risk by Building Portfolio
+Trading: Calculate Technical Analysis Indicators with Pandas 🐼
+Collect Trading Data with Pandas
+Collect Trading Data with Pandas Library 🐼
