@@ -3,7 +3,8 @@ layout: post
 title: How I leetcode for 6 months and land a job at Amazon
 ---
 
-![alt](https://raw.githubusercontent.com/kylelix7/kylelix7.github.io/master/images/leetcode1.png)
+![header](/images/leetcode1.png)
+
 # Leetcode as routine
 I started leetcode as a daily routine early Nov 2018 while I was taking part time online master couse Machine Learning at Geogia Tech and having full time job. It was quite hard to find enough time to tackle a single question from scratch. So, my strategy was to read questions and most upvoted answers in the discussion to get the sense of questions tag by tag. I found that it is extremely helpful for me to read solutions before attempting to solve the problems all by myself. It saved me time and allow me to read many questions in the same tag. So I could recognized variants of specific type of questions easily in the future. It also avoid the unnecessary frustration in early phase. Many people may feel frustrated as they cannot even solve easy problems at the very beginning. Actually this is very common. Reading solution early on can actually help avoid that. I know some people may disagree with this point. YMMV. (Besides leetcode, I have compiled this list of resources that helped me)
 In my opinion, this is more effective for most of the people who are not guru in algorithms. But don’t get me wrong, I still need to wake up as early as 6 am to leetcode for those days.
@@ -13,7 +14,7 @@ Note: if you are very new to the interview process of the big tech companies, [c
 Around new year 2019, I started my semester when I took two hard courses Reinforcement Learning and Advanced Operating System. These two courses consumed 30+ hours weekly. By then, I have briefly “solved” most tags and get the ability to identify the problem types by looking at the question. I then started try to solve problem without reading the solutions. My submissions were a lot less between Jan and April. This slowdown is very critical for me to transition the memorization to practical problem solving skills in interview. By writing the code, it did reinforcement my understanding of the algorithms I learned.
 
 # Leetcode contest
-![alt](https://raw.githubusercontent.com/kylelix7/kylelix7.github.io/master/images/leetcode2.png)
+![alt](/images/leetcode2.png)
 During January to April, I attempted weekly contest as much as possible. I was never able to solve all four questions during the contest. Most of the time, I get 2 questions solved, sometimes 3. The advantage is that the contest provides the interview environment as it has time constraints.
 
 #A buddy
