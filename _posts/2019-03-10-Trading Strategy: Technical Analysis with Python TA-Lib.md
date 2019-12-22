@@ -2,10 +2,13 @@
 layout: post
 title: How to use TA-Lib for Technical Analysis in Python
 ---
+
+![alt](https://cdn-images-1.medium.com/max/2400/0*n1MpxX4JN7ZbRluN.)
+
+
 >In finance, a trading strategy is a fixed plan that is designed to achieve a profitable return by going long or short in markets. The main reasons that a properly researched trading strategy helps are its verifiability, quantifiability, consistency, and objectivity.
 For every trading strategy one needs to define assets to trade, entry/exit points and money management rules. Bad money management can make a potentially profitable strategy unprofitable. — From Wikipedia
 
-![alt](https://cdn-images-1.medium.com/max/2400/0*n1MpxX4JN7ZbRluN.)
 
 Strategies are categorized as fundamental analysis based and technical analysis based. While fundamental analysis focus on company’s assets, earnings, market, dividend etc, technical analysis solely focus on its stock price and volume. Technical analysis widely use technical indicators which are computed with price and volume to provide insights of trading action. Technical indicators further categorized in volatility, momentum, trend, volume etc. Selectively combining indicators for a stock may yield great profitable strategy. Once a strategy is built, one should [backtest](https://www.investopedia.com/terms/b/backtesting.asp) the strategy with simulator to measure performance ([return and risk](https://medium.com/@kyle.jinhai.li/efficient-frontier-optimize-portfolio-with-scipy-57456428323e)) before live trading. I have another post covering backtest with backtrader.
 
