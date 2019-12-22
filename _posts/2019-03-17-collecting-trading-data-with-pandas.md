@@ -3,9 +3,12 @@ layout: post
 title: Collect Trading Data with Pandas Library
 ---
 
+![header](/images/collect-header.jpeg)
+
+
 [Pandas](https://pandas.pydata.org/) is an open source, library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. Pandas is one of the most popular tools for trading strategy development, because Pandas has a wide variety of utilities for data collection, manipulation and analysis, etc.
 
-![header](/images/collect-header.jpeg)
+
 For quantitative analysts who believe in trading, they need access to stock price and volume so that they can compute a combination of technical indicators (e.g. SMA, BBP, MACD etc.) for strategy. Luckily, such data is available on many platforms (e.g. [IEX](https://iextrading.com/developer/), [Quandl](https://www.quandl.com/)) via REST APIs. Even more luckily, pandas_datareader provides a consistent simple API for you to collect data from these platforms. In this story, I will walk through how to collect stock data with Pandas.
 
 Prerequisite: Python 3
