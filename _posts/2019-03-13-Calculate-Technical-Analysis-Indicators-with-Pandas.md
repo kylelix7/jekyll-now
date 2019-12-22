@@ -2,9 +2,12 @@
 layout: post
 title: Calculate Technical Analysis Indicators with Pandas
 ---
-In finance, [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) is an analysis methodology for forecasting the direction of prices through the study of past market data, primarily price and volume. Technical analysts rely on a combination of technical indicators to study a stock and give insight about trading strategy. Common technical indicators like [SMA](https://en.wikipedia.org/wiki/Moving_average#Simple_moving_average) and [Bollinger Band®](https://en.wikipedia.org/wiki/Bollinger_Bands) are widely used. Here is a [list](https://www.tradingtechnologies.com/help/x-study/technical-indicator-definitions/list-of-technical-indicators/) of technical indicators.
 
 ![header-1](/images/trading-header.jpeg)
+
+
+In finance, [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) is an analysis methodology for forecasting the direction of prices through the study of past market data, primarily price and volume. Technical analysts rely on a combination of technical indicators to study a stock and give insight about trading strategy. Common technical indicators like [SMA](https://en.wikipedia.org/wiki/Moving_average#Simple_moving_average) and [Bollinger Band®](https://en.wikipedia.org/wiki/Bollinger_Bands) are widely used. Here is a [list](https://www.tradingtechnologies.com/help/x-study/technical-indicator-definitions/list-of-technical-indicators/) of technical indicators.
+
 
 In a [previous story](https://medium.com/@kyle.jinhai.li/collect-trading-data-with-pandas-library-8904659f2122), I talked about how to collect such information with Pandas. In this story, I will demonstrate how to compute Bollinger Bands® and use it to provide potential buy / sell signals.
 
