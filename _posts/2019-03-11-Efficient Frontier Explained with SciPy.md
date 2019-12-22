@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Efficient Frontier Explained with SciPy
+title: Portfolio Optimization for Minimum Risk with Scipy — Efficient Frontier Explained with SciPy
 ---
 
 ![header](/images/header.jpeg)
