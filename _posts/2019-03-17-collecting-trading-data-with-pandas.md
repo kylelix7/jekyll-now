@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collect Trading Data with Pandas Library
+title: Get Trading Data with Pandas Library
 ---
 
 ![header](/images/collect-header.jpeg)
