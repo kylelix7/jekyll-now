@@ -13,7 +13,7 @@ Robinhood is a popular trading broker whose users base is mainly millennials due
 In this post, I will compare the performance of the Fools’ portfolio (stocks picked recently) and Millennials’ portfolio (popular stocks revealed by Robinhood).
 
 
-##side by side
+## Side by side
 Fools’ picks: The Trade Desk (TTD), Appian (APPN), Zscale (ZS), Twilio (TWLO), Zoom Video Communications (ZM), Waste Management (WM), Starbucks (SBUX), Masimo (MASI), Amazon (AMZN), Zynga (ZNGA) and SolarEdge Technologies (SEDG).
 
 
@@ -44,4 +44,4 @@ Now, let’s take a look at how Millennials are doing. As below, we found even f
 Though numbers are quantified, it is hard to tell which portfolio is better than the other. It has to be measured by your own need. Generally speaking, young generation have the time to take the risk for high return. Older generation may tend to buy safer high dividend stock. But a couple important rules that should apply to all are diversification and save enough money to invest for long term.
 
 
-##[My posts](http://kylelix7.github.io/)
+## [My posts](http://kylelix7.github.io/)
