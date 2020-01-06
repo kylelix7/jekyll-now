@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Get Trading Data with Pandas Library
+tags: SciPy, Python, Machine Learning, Investment, Technical Analysis, Technical Indicator, Panda
 ---
 
 ![header](/images/collect-header.jpeg)
