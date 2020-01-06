@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resources that help me land a job at FANG
+tags: Leetcode, Career, Interview, Job Hunting, FANG Job, IT jobs, Interview Books
 ---
 
 ![header](https://miro.medium.com/max/11232/0*WtJhB-PQkvFlzVpw)
