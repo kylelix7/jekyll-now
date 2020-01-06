@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to use TA-Lib for Technical Analysis in Python
+tags: TA-Lib, Python, Machine Learning, Investment, Backtesting, Portfolio Management, Technical Analysis, Technical Indicator
 ---
 
 ![alt](https://cdn-images-1.medium.com/max/2400/0*n1MpxX4JN7ZbRluN.)
