@@ -1,8 +1,4 @@
----
-layout: post
-title: Game Theory
-tags: Nash Equilibrium, Correlated Equilibrium, Markov Games
----
+
 
 ## Nash Equilibrium vs. Correlated Equilibrium
 Nash equilibrim always exists in Markov game. But it need not to be the optimal equilibrium.
