@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From CRUD web app dev to SDE in voice assistant — My ongoing Journey to Machine Learning
+tags: Career, Interview, Job Hunting, FANG Job, IT jobs
 ---
 
 
