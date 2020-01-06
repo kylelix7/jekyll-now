@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back testing with Backtrader
+tags: Machine Learning, Investment, Backtesting, Portfolio Management, Technical Analysis, Technical Indicator
 ---
 
 ![header](https://cdn-images-1.medium.com/max/1600/0*8l5ftTfMjM03HzEH)
