@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Calculate Technical Analysis Indicators with Pandas
+tags: SciPy, Python, Machine Learning, Investment, Risk Management, Portfolio Optimization, Technical Analysis, Technical Indicator, Panda
 ---
 
 ![header-1](/images/trading-header.jpeg)
