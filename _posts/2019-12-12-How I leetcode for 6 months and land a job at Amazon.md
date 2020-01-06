@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How I leetcode for 6 months and land a job at Amazon
+title: How I leetcode for 6 months and land a job in FANG
+tags: Leetcode, Career, Interview, Job Hunting, FANG Job, IT jobs
 ---
 
 ![header](/images/leetcode1.png)
