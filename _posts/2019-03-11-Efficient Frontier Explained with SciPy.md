@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio Optimization for Minimum Risk with Scipy — Efficient Frontier Explained with SciPy
-tags: SciPy, Python, Machine Learning, Investment, Risk Management, Portfolio Optimization, Technical Analysis, Technical Indicator
+tags: SciPy, Python, Machine Learning, Investment, Risk Management, Portfolio Optimization, Technical Analysis, Technical Indicator, Efficient Frontier
 ---
 
 ![header](/images/header.jpeg)
