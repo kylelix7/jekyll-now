@@ -56,6 +56,11 @@ System design is common in FANG interview. A candidiate is expected to know diff
 ![alt](/images/dataapp.jpg)
 
 
+## Talk like you are in a real interview in front of a [whiteboard](https://www.amazon.com/gp/product/B07K6B8Q5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07K6B8Q5V&linkCode=as2&tag=blog023b-20&linkId=8d326f8d5cacb704295d81cda7ee8f8b)
+
+
+This is one thing that you may easily overlook. Being able to convey your thought is very critical in real interview. It’s a key ability that interviewers look for. I bought this [whiteboard](https://www.amazon.com/gp/product/B07K6B8Q5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07K6B8Q5V&linkCode=as2&tag=blog023b-20&linkId=8d326f8d5cacb704295d81cda7ee8f8b) and started to go through solution in front of a buddy. I was surprised how bad it could be even I had clear solution in my mind. Practising in front of a whiteboard definitely improve the interview skills. You will find this much more important in the system design interview. I personally prefer wall-mounted board over the standing board as wall-mounted wall is more simillar to what you will get.
+
 ## Patience and Determination
 
 
