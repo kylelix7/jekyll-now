@@ -8,7 +8,7 @@ tags: Career, Interview, Job Hunting, FANG Job, IT jobs, System Design
 (Photo by [Andy Kelly](https://unsplash.com/@isaacmsmith?utm_source=medium&utm_medium=referral) on Unsplash)
 
 
-System design is common in technical interview these days. If coding interview validate the ability to code, then system design interview validates the ability to build. It verifies whether a candidate can build a system that can perform at scale and tolerrant faluts. There are so many great resources, like [Groking System Design](https://www.educative.io/courses/grokking-the-system-design-interview) or [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046) which give you great examples and details about the best practice for system design. But after I talked to many people, I feel many of them tend to memorize the solutions for each example. Hence, I find writting down summary about these rules of thumbs is critical for you to react in a real interview. Here is my summary.
+System design is common in technical interview these days. If coding interview validate the ability to code, then system design interview validates the ability to build. It verifies whether a candidate can build a system that can perform at scale and tolerrant faluts. There are so many great resources, like [Groking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) or [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046) which give you great examples and details about the best practice for system design. But after I talked to many people, I feel many of them tend to memorize the solutions for each example. Hence, I find writting down summary about these rules of thumbs is critical for you to react in a real interview. Here is my summary.
 
 
 # Cache
@@ -59,7 +59,7 @@ SQL and NoSQL databases are very different in the way how data is stored. In SQL
 There’s another big difference about consistency. SQL support strong consistency. That means all database nodes have the same copy of data at the same time, while NoSQL mostly support eventual consistency. That means a write to database nodes is async. It doesn’t guarantee to have all nodes to have the same data at a given time. But eventually, all nodes will have all write update. This also make NoSQL more efficient in many scenario.
 
 
-There are more in-depth details in SQL vs. NoSQL and CAP Therem in Groking System Design.
+There are more in-depth details in SQL vs. NoSQL and CAP Therem in [Groking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk).
 
 
 In the end, I hope this summary can help you get ideas about building systems in both interview and at work.
