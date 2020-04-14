@@ -47,7 +47,7 @@ The famous [Design Patterns: Elements of Reusable Object-Oriented Software](http
 ![alt](/images/designpattern.jpg)
 
 
-## **System design**: [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
+## **System design**: [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
 
 
 System design is common in FANG interview. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. Grokking the System Design Interview is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
