@@ -4,11 +4,6 @@ title: System Design Interview Prep - Should You Put the Data in Cache?
 tags: FAANG, System Design Interview, Interview, Job
 ---
 
-![header](https://miro.medium.com/max/1400/0*Uy-zVmk6qgUXL2En)
-
-Photo by Joshua Sortino on Unsplash
-
-
 Cache is a data store that serves data at a relatively fast speed. There are hardware and software caches. In system design interview, we will focus on software cache mostly. In many cases, cache are blocks of memory that store data. Since the speed of accessing memory is much faster than IO like disk and network, applications can put the data in memory to avoid accessing IO. As a result, throughput can be increased and latency can be decreased.
 
 
