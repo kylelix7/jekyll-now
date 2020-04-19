@@ -62,3 +62,4 @@ Because the cache is small and meant to hold only a small subset of hot data, it
 
 
 Cache is a way to optimize read-heavy application. It increases throughput and decreases latency by putting a relatively small amount of hot data in the memory so that data access can avoid hitting the disk. Depending on your application, you may want to choose write policy and cache replacement policy accordingly for best performance. To learn more about System Design, you can find more in [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046) and [Groking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk).
+
