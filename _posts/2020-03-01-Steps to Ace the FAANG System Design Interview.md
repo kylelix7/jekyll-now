@@ -38,4 +38,6 @@ Software is never perfect, so you as a candidate should explain how your system 
 
 # Last words
 
-These are some points that you would like to consider during the system design interview. If you would like to get more technical details about the system design, I would recommend use Designing Data-Intensive Applications as reference for the preparation. Good Luck.
+These are some points that you would like to consider during the system design interview. If you would like to get more technical details about the system design, I would recommend [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046) as reference for the preparation. Good Luck.
+
+![alt](/images/Grokking.JPG)
