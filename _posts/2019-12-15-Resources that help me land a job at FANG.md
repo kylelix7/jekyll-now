@@ -52,6 +52,7 @@ The famous [Design Patterns: Elements of Reusable Object-Oriented Software](http
 
 System design is common in FANG interview. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. Grokking the System Design Interview is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
 
+![alt](/images/Grokking.JPG)
 
 ![alt](/images/dataapp.jpg)
 
