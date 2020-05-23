@@ -29,5 +29,8 @@ SQL database has standard query language. In contrast, the NoSQL databases have 
 
 # Last words
 
-There are definitely more topics for you to dive deep if you’re interested in database. [ACID](https://en.wikipedia.org/wiki/ACID) and [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) are great topics to learn about. Understanding the basics and being able to read the user guide from database vendor are critical skills when you choose your database.
+There are definitely more topics for you to dive deep if you’re interested in database. [ACID](https://en.wikipedia.org/wiki/ACID) and [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) are great topics to learn about. Understanding the basics and being able to read the user guide from database vendor are critical skills when you choose your database. To learn more about System Design, you can find more in [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk).
+
+
+![alt](/images/Grokking.JPG)
 
