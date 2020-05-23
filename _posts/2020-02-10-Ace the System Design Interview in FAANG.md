@@ -61,8 +61,7 @@ There’s another big difference about consistency. SQL support strong consisten
 
 There are more in-depth details in SQL vs. NoSQL and CAP Therem in [Groking System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk).
 
-
-![alt](/images/Grokking.JPG)
+[<img src="/images/Grokking.JPG">](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk)
 
 In the end, I hope this summary can help you get ideas about building systems in both interview and at work.
 
