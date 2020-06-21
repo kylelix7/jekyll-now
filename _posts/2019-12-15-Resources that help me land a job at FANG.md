@@ -8,6 +8,19 @@ tags: Leetcode, Career, Interview, Job Hunting, FANG Job, IT jobs, Interview Boo
 
 In about the same time last year, I started to prepare for interviews of big tech like FANG. In [one of my posts](https://kylelix7.github.io/How-I-leetcode-for-6-months-and-land-a-job-at-Amazon/), I talked about leetcode’s role in landind the job. I think it will help more to list all resources I had used to make this come true.
 
+
+## **System design**: [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
+
+
+System design is increasingly important in FANG interview because the employers not only want a programmer, but an engineer who know how to build scalable systems. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. Grokking the System Design Interview is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
+
+[<img src="/images/Grokking.JPG">](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk)
+
+[<img src="/images/dataapp.jpg">](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
+
+
+
+
 ## [Cracking the Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=blog023b-20&linkId=8dfe8809d516c0d6f5012a0658145724) and [CTCI github](https://github.com/careercup/CtCI-6th-Edition)
 
 
@@ -39,18 +52,8 @@ There can be a round of Object Oriented Design interview depending on the compan
 
 The famous [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=blog023b-20&linkId=e03ecee3d6405d4c26076b1a832a047b) by Gang of Four is a classic design pattern book to help you write moduled reusable source code.
 
+
 [<img src="/images/designpattern.jpg">](https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=blog023b-20&linkId=e03ecee3d6405d4c26076b1a832a047b)
-
-
-## **System design**: [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
-
-
-System design is common in FANG interview. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. Grokking the System Design Interview is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
-
-[<img src="/images/Grokking.JPG">](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk)
-
-[<img src="/images/dataapp.jpg">](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
-
 
 
 ## Talk like you are in a real interview in front of a [whiteboard](https://www.amazon.com/gp/product/B07K6B8Q5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07K6B8Q5V&linkCode=as2&tag=blog023b-20&linkId=8d326f8d5cacb704295d81cda7ee8f8b)
