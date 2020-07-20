@@ -12,12 +12,11 @@ In about the same time last year, I started to prepare for interviews of big tec
 ## **System design**: [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) and [Designing Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
 
 
-System design is increasingly important in FANG interview because the employers not only want a programmer, but an engineer who know how to build scalable systems. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. Grokking the System Design Interview is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
+System design is increasingly important in FANG interview because the employers not only want a programmer, but an engineer who know how to build scalable systems. A candidiate is expected to know different perspectives of a system, resources like storage, memory, network etc. The candidate should also talk about trade off when a particular decision is made. [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk) is the best system design materials so far. (If anyone knows better resource, please let me know in the comment).
 
 [<img src="/images/Grokking.JPG">](https://www.educative.io/courses/grokking-the-system-design-interview?aff=VEzk)
 
 [<img src="/images/dataapp.jpg">](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=blog023b-20&linkId=c2a54da05c554be38ae17a0a7c1a0046)
-
 
 
 
@@ -43,10 +42,18 @@ If you lack of fundamental algoirhtm and data structure, you can start learning 
 
 [<img src="/images/algo.jpg">](https://www.amazon.com/gp/product/032157351X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032157351X&linkCode=as2&tag=blog023b-20&linkId=f98bcb0c4220afdd3f99fcfd3c47aba8)
 
-## **Object Oriented Design** [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a) and [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=blog023b-20&linkId=e03ecee3d6405d4c26076b1a832a047b)
+## **Object Oriented Design** [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview?aff=VEzk), [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a) and [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=blog023b-20&linkId=e03ecee3d6405d4c26076b1a832a047b)
 
 
-There can be a round of Object Oriented Design interview depending on the company or the level of the position. Even there is no dedicated round for testing OOD, it can be reflected from the code you write during the coding interview. It can also be an indicator of how good you are. [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a) is a great introduction if you are completely new to design patterns. This provides very straight forward examples which help quickly grasp the concepts of common design patterns. The coverage of difference patterns is also high. This book can guide you to choose an appropriate pattern based on requirement. This can be a bonus point for you to talk about your choice of pattern during interview.
+There can be a round of Object Oriented Design interview depending on the company or the level of the position. Even there is no dedicated round for testing OOD, it can be reflected from the code you write during the coding interview. It can also be an indicator of how good you are. 
+
+
+[Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview?aff=VEzk) has great examples for building systems from Object Design perspective. Examples like "Build a LinkedIn", "Build a Facebook" will give you ideas of what objects will be needed and how the objects' relationship will be. Combining this course with the Grokking the System Design Interview can help you get a complete picture of building systems. Hence you will likely have a more complete answer in the interview.
+
+[<img src="/images/Grokking-OOD.png">](https://www.educative.io/courses/grokking-the-object-oriented-design-interview?aff=VEzk)
+
+
+[Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a) is a great introduction if you are completely new to design patterns. This provides very straight forward examples which help quickly grasp the concepts of common design patterns. The coverage of difference patterns is also high. This book can guide you to choose an appropriate pattern based on requirement. This can be a bonus point for you to talk about your choice of pattern during interview.
 
 [<img src="/images/headfirst.jpg">](https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=blog023b-20&linkId=4121254ae4d1abc073db23525ac9261a)
 
