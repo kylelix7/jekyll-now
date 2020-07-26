@@ -117,3 +117,6 @@ The below, I plot the action with green points (entry points) and red points (ex
 
 # Result in graph
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*raNylO8-cSatM6II0nXu3g.png)
+
+
+If you would like to learn more about Machine Learning there is [a helpful series of courses in educative.io](https://www.educative.io/profile/view/6083138522447872?aff=VEzk). These courses cover topics like basic ML, NLP, Image Recognition etc.
