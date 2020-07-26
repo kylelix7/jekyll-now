@@ -156,6 +156,6 @@ At the end of execution, you can find out your final value of portfolio. As well
 
 As you can see, this simple strategy works ok with FB as it captures a few buy and sell opportunities.
 
-That’s it for backtesting with backtrader. If you want to dive deeper, I encourage you visit [backtrader’s doc](https://www.backtrader.com/docu/introduction.html) for more advanced usage. Happy coding and trading!
+That’s it for backtesting with backtrader. If you would like to learn more about Machine Learning there is [a helpful series of courses in educative.io](https://www.educative.io/profile/view/6083138522447872?aff=VEzk). These courses cover topics like basic ML, NLP, Image Recognition etc. Happy coding and trading!
 
 
